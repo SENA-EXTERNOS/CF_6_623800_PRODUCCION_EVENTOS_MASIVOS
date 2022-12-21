@@ -73,7 +73,7 @@
 
       p #[b Aspectos para definir adecuadamente la señalización para un evento:]
 
-    .row.justify-content-center.mb-4.bgr1-tema1z
+    .row.justify-content-center.mb-4.bgr1-tema1
       .col-lg-12
         .crd.clr--gray.brd--rad.p-4
           PasosB.color-acento-contenido
@@ -145,7 +145,7 @@
       .col-lg-8
         .row.justify-content-center.align-items-center.mt-5.bgr1-intro
           .col-lg-9.p-4
-            p Este componente formativo se enfoca en desarrollar habilidades para comprender el tema y la manera como se relaciona con áreas de registro y control de asistentes, mercadeo y promoción.
+            p Por otro lado, se enfatiza en que el proceso de acreditación, que se abordará más adelante, es muy importante; es el primer contacto entre el asistente y el evento, por esa razón debe ser cuidado en todos sus detalles. Esa primera experiencia puede fidelizar clientes o dejar una imagen negativa en ellos. 
 
           .col-lg-3
             figure(data-aos="zoom-in")
@@ -437,8 +437,8 @@
       .col-lg-6
         .bloque-texto-f.color-primario.p-4.color-f2.recuadro3-width
           .bloque-texto-f__texto
-            p.mb-0 La planimetría es un plano técnico que contiene la representación a escala de todos los espacios con la ubicación de los elementos de video, iluminación, audio y escenario. Se elabora antes del evento y tiene como objetivo optimizar los recursos tecnológicos y la preparación de la propuesta comercial para la empresa contratante. 
-            
+            p.mb-0 Dicho lo anterior, se puede entender que contar con este documento y comprenderlo ayuda a reducir las consecuencias que podrían presentarse a partir de una situación de riesgo. Cuando los empleados del evento conocen cómo actuar y hacia dónde ir en una emergencia, se previenen accidentes y las posibilidades de salvar su vida y la de otros aumenta.
+
     separador
 
     #t_1_2
@@ -487,7 +487,7 @@
               img(src='@/assets/curso/temas/tema1/img33.png', alt='Texto que describa la imagen')
 
     .row.mt-5
-      p Control de acceso
+      p #[b Control de acceso]
 
     .row.justify-content-center.align-items-center.mt-3
       .col-lg-2
@@ -500,7 +500,7 @@
       .row.justify-content-center.mb-4
         .col-lg-5
           .cajonAmarillo.bgr-tarjeta1-tema1.p-4.mt-3
-            p.text-center(data-aos="fade-down") Mecanismos para control de acceso en un evento:
+            p.text-center(data-aos="fade-down") #[b Mecanismos para control de acceso en un evento:]
 
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema1/img35.svg", alt="alt").img400.m-auto
@@ -508,7 +508,7 @@
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="NFC, tecnología inalámbrica de corto alcance")
               .col-12
-                p.mb-0 La comunicación de campo cercano (Near Field Communication —NFC—) es un sistema que se encarga de identificar y validar a las personas cuando se registran. Para darles ingreso se utilizan dispositivos que leen el celular de la persona o su tarjeta con chip NFC.
+                p.mb-0 La comunicación de campo cercano (#[i Near Field Communication —NFC—]) es un sistema que se encarga de identificar y validar a las personas cuando se registran. Para darles ingreso se utilizan dispositivos que leen el celular de la persona o su tarjeta con chip NFC.
 
             .row(titulo="Sistema de escaneo de códigos QR")
               .col-12
