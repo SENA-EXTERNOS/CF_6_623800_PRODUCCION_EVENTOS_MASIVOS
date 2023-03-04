@@ -9,9 +9,9 @@
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-9
-        p La señalización en los eventos se utiliza con diferentes fines, por ejemplo, para dirigir a los asistentes a algún lugar específico o para promocionar una marca, producto o negocio como tal. Su utilización dependerá del tamaño del encuentro, porque los pequeños, por obvias razones, no tendrán necesidad de una gran cantidad de señalización; por el contrario, los eventos masivos requerirán más.
+        p La señalización se utiliza con diferentes fines, por ejemplo, para dirigir a los asistentes a algún lugar específico o para promocionar y destacar una marca, producto o negocio como tal. Su utilización dependerá del tamaño del encuentro, los eventos pequeños no tendrán necesidad de una gran cantidad de señalización, por el contrario, los eventos masivos requerirán más.
 
-        p Algunas de las áreas donde la señalización cobra gran relevancia visual es en entradas, salidas (incluidas las de emergencia), áreas de registro, baños, zonas de alimentos y bebidas, zonas para fumadores y numeración de salones, entre otros. 
+        p Algunas de las áreas donde la señalización cobra gran relevancia visual es en entradas, salidas (incluidas las de emergencia), áreas de registro, baños, zonas de alimentos y bebidas, zonas para fumadores, numeración de salones, entre otros. 
 
       .col-lg-3
         figure(data-aos="zoom-in")
@@ -20,9 +20,9 @@
     .row.justify-content-around.align-items-center.time-line-rediect.mt-3
       .col-lg-12
         .cajonAmarillo.bgr-tarjeta2-tema1.p-4.mt-3
-          p(data-aos="fade-down") Debido a que existen muchos tipos de eventos, también se deberán tener presentes varios requisitos a la hora de crear la señalización adecuada. Dentro de estos factores, se pueden encontrar el tipo de espacio que se va a utilizar (al aire libre o en recinto cerrado), el tipo de asistentes al evento, el presupuesto disponible para la calidad y cantidad de la señalización y la duración del evento, entre otros aspectos. 
+          p(data-aos="fade-down") Debido a que existen muchos tipos de eventos, se deberán tener presentes varios requisitos a la hora de crear la señalización adecuada; dentro de estos se pueden encontrar: el tipo de espacio que se va a utilizar (al aire libre o en recinto cerrado), el tipo de asistentes al evento, el presupuesto disponible para la calidad y cantidad de la señalización, la duración del evento, entre otros. 
 
-          p Asimismo, se debe definir la clase de anuncios que se van a disponer en el lugar del evento, ejemplo de ello son: 
+          p Asimismo, se debe definir la clase de anuncios que se van a disponer en el lugar del evento, algunos ejemplos son: 
 
     SlyderF(columnas="col-lg-6 col-xl-4").mt-5
       .tarjeta.color-acento-botones.p-4.height-tarjetas
@@ -51,7 +51,7 @@
           .col-8
             img(src='@/assets/curso/temas/tema1/img5.svg' alt='AvatarTop')
         h3.text-center Telones de fondo
-        p.text-center Sirven para eventos musicales y también para que los asistentes se tomen fotos
+        p.text-center Sirven para eventos musicales y también para que los asistentes se tomen fotos.
 
       .tarjeta.color-acento-botones.p-4.height-tarjetas
         .row.justify-content-center.mb-3
@@ -64,15 +64,13 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/img7.svg' alt='AvatarTop')
-        h3.text-center Carteles de estands
-        p.text-center Son portátiles y se arman rápido y fácil, por lo que se pueden trasladar de un lugar a otro sin mucha complicación.
+        h3.text-center Carteles de <i>estands</i>
+        p.text-center Son portátiles, se arman rápido y fácil, por lo que se pueden trasladar de un lugar a otro sin mucha complicación.  
 
     
     .row.mt-5
-      p Según la Corporación Casa Lima (2022), algunos aspectos para tener en cuenta al momento de definir la señalización de un evento son:
-
-      p #[b Aspectos para definir adecuadamente la señalización para un evento:]
-
+      p #[b Aspectos para definir adecuadamente la señalización de un evento]
+      p.mb-5 Según la Corporación Casa Lima (2022), algunos aspectos para tener en cuenta al momento de definir la señalización de un evento son:
     .row.justify-content-center.mb-4.bgr1-tema1
       .col-lg-12
         .crd.clr--gray.brd--rad.p-4
@@ -86,7 +84,7 @@
 
             .row.justify-content-center(titulo="").pt-3
               .col-lg-6.mb-4.mb-lg-0
-                p Se debe utilizar una fuente en negrilla en colores oscuros sobre un fondo claro para proporcionar un alto nivel de contraste. 
+                p Se debe utilizar una fuente en negrilla, en colores oscuros sobre un fondo claro, para proporcionar un alto nivel de contraste. 
               .col-lg-4.col-xs-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img11.svg', alt='')
@@ -100,7 +98,7 @@
 
             .row.justify-content-center(titulo="").pt-3
               .col-lg-6.mb-4.mb-lg-0
-                p Recordar siempre la importancia de que el evento sea incluyente, por lo tanto, es bueno tener espacios para personas que vayan en silla de ruedas, como caminos, rampas, baños adaptados para ellos, etc. 
+                p Recordar siempre que el evento debe ser incluyente, por lo tanto, es bueno tener espacios para personas que vayan en silla de ruedas, caminos adaptados, rampas, baños con accesibilidad, etc. 
               .col-lg-4.col-xs-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img13.png', alt='')
@@ -114,17 +112,17 @@
 
             .row.justify-content-center(titulo="").pt-3
               .col-lg-6.mb-4.mb-lg-0
-                p Ser consistente en el orden en que aparece la información en las señales, utilizar la cantidad mínima de caracteres.
+                p Ser consistente en el orden en que aparece la información en las señales y utilizar la cantidad mínima de caracteres.
               .col-lg-4.col-xs-6
                 figure
-                  img(src='@/assets/curso/temas/tema1/img15.png', alt='')
+                  img(src='@/assets/curso/temas/tema1/1.png', alt='')
 
             .row.justify-content-center(titulo="").pt-3
               .col-lg-6.mb-4.mb-lg-0
                 p Utilizar símbolos reconocidos internacionalmente en los carteles.
               .col-lg-4.col-xs-6
                 figure
-                  img(src='@/assets/curso/temas/tema1/img16.svg', alt='')
+                  img(src='@/assets/curso/temas/tema1/2.png', alt='')
 
             .row.justify-content-center(titulo="").pt-3
               .col-lg-6.mb-4.mb-lg-0
@@ -135,7 +133,7 @@
 
             .row.justify-content-center(titulo="").pt-3
               .col-lg-6.mb-4.mb-lg-0
-                p Usar plantillas prediseñadas con fondos blancos para las necesidades de última hora, como agregar logotipos de patrocinadores.
+                p Usar plantillas prediseñadas con fondos blancos para las necesidades de última hora como, por ejemplo, agregar logotipos de patrocinadores.
               .col-lg-4.col-xs-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img18.svg', alt='')
@@ -145,22 +143,24 @@
       .col-lg-8
         .row.justify-content-center.align-items-center.mt-5.bgr1-intro
           .col-lg-9.p-4
-            p Por otro lado, se enfatiza en que el proceso de acreditación, que se abordará más adelante, es muy importante; es el primer contacto entre el asistente y el evento, por esa razón debe ser cuidado en todos sus detalles. Esa primera experiencia puede fidelizar clientes o dejar una imagen negativa en ellos. 
+            p Por otro lado, se debe enfatizar en que el proceso de acreditación es muy importante; es el primer contacto entre el asistente y el evento, por esa razón debe ser cuidado en todos sus detalles. Esa primera experiencia puede fidelizar clientes o dejar una imagen negativa en ellos. 
 
           .col-lg-3
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/tema1/img19.svg', alt='Texto que describa la imagen').width-image1
 
 
-    .row.mt-5
-      p.text-center #[b Los momentos que se deben cumplir dentro del proceso de acreditación desde el primer contacto entre el asistente y el evento son:]   
+    h5.mt-5 Proceso de acreditación
 
+    .row.mt-5
+      p Como se dijo anteriormente, la acreditación es el primer contacto entre el asistente y el evento. En esta, los coordinadores se deben encargar de generar un buen ambiente o estado, que procure comodidad, sencillez y facilidad en el proceso al asistente.  
+      p.mb-5 Como todo proceso, se presentan momentos o etapas las cuales, si se planean bien, pueden generar que fluya con agilidad la acreditación. Algunos aspectos a tener en cuenta en este proceso son:
     .row
       .col-lg-12.order-2.order-lg-1
         TabsA.color-secundario.mb-5        
           .tarjeta.clr-paleYellow.p-4(titulo="Equipos de trabajo")
             h4 Equipos de trabajo
-            p Se deben tener presentes los equipos tecnológicos que se van a usar al momento de la acreditación, y la cantidad de personal necesario para atender al público visitante. Es necesario tener una escarapela o algún elemento portable que permita identificar a los asistentes, ya sea física o digital. A ellos se les debe informar toda novedad, alertar sobre controles de seguridad y brindarles orden, con el fin de evitar largas filas y alargar el tiempo de espera.
+            p Se deben tener presentes los equipos tecnológicos que se van a usar al momento de la acreditación y la cantidad de personal necesario para atender al público visitante. Es necesario tener una escarapela o algún elemento portable que permita identificar a los asistentes, ya sea física o digital. A ellos se les debe informar toda novedad, alertar sobre controles de seguridad y brindarles orden, con el fin de evitar largas filas y alargar el tiempo de espera.
     
           .tarjeta.clr-paleYellow.p-4(titulo="Las acreditaciones")
             h4 Las acreditaciones
@@ -172,15 +172,15 @@
 
           .tarjeta.clr-paleYellow.p-4(titulo="Pulsera inteligente")
             h4 Pulsera inteligente
-            p Se usa mucho en festivales, ya que sirven para acceder al evento y como medio de pago en los puestos de comida. Una vez se paga el tiquete de ingreso se debe acceder a su aplicación, y a través de PayPal o tarjeta de crédito, se recarga la pulsera con dinero. Al llegar al evento, el boleto se canjea por la pulsera y la recarga previa de dinero se deberá ver reflejada. Un chip en ella permite acceder a las compras de artesanías, recuerdos, refrescos y comida, con un simple movimiento de mano. También se podrán hacer recargas de dinero durante el festival.
+            p Se usa mucho en festivales, ya que sirve para acceder al evento y como medio de pago en los puestos de comida. Una vez se paga el tiquete de ingreso, se debe acceder a una aplicación de celular y a través de pagos electrónicos como PayPal o tarjeta de crédito, se recarga la pulsera con dinero. Al llegar al evento, el boleto se canjea por la pulsera y la recarga previa de dinero se verá reflejada. Un chip en ella permite acceder a las compras de artesanías, recuerdos, refrescos y comida, con un simple movimiento de mano. También se pueden hacer recargas de dinero durante el festival.
 
           .tarjeta.clr-paleYellow.p-4(titulo="PDF con la entrada")
             h4 PDF con la entrada
-            p Se usa para eventos cuya entrada se puede pagar a través de ciertas plataformas. Cuando el usuario hace la compra, recibe un PDF que puede imprimir y cargar su entrada para entrar directamente al evento.
+            p Se usa para eventos cuya entrada se puede pagar a través de ciertas plataformas. Cuando el usuario hace la compra, recibe un PDF que puede imprimir y presentar para ingresar directamente al evento.
 
           .tarjeta.clr-paleYellow.p-4(titulo="Aplicación móvil")
             h4 Aplicación móvil
-            p Muchos eventos tienen su propia aplicación, para que el participante pueda acceder y crear con su identificación previa un código QR que puede mostrar a la entrada del evento. De esa manera ahorra tiempo en las filas de acreditación.
+            p Muchos eventos tienen su propia aplicación, para que el participante pueda acceder, crea con su identificación un código QR que puede mostrar a la entrada del evento, de esa manera ahorra tiempo en las filas de acreditación.
 
     separador
 
@@ -196,18 +196,12 @@
       .col-lg-8
         .cajonAmarillo.bgr-tarjeta2-tema1.p-4.mt-3
           p(data-aos="fade-down") En un evento masivo es imprescindible mantener la seguridad de todas las personas involucradas, por ello, la señalización preventiva es de gran importancia, ya que brinda a los asistentes instrucciones sobre cómo actuar en caso de emergencia y cuáles son las prohibiciones en ciertas áreas. Los desastres de origen natural o antrópico se pueden presentar en cualquier momento, por lo tanto, proteger la vida e integridad de los asistentes es una obligación de todo organizador de eventos.  
-
-        p.mt-3 Cómo se mencionó anteriormente, la señalización preventiva es muy importante. La Figura 1 muestra la clasificación según el tipo de mensaje que brinda:  
+        h5.mt-3 Tipos de señalización preventiva
+        p.mt-3 Como se mencionó, la señalización preventiva es muy importante para el cuidado de las personas o las condiciones del lugar, a continuación, se muestra su clasificación según el tipo de mensaje que brinda:    
 
       .col-lg-4
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema1/img20.svg', alt='Texto que describa la imagen')   
-
-    .row.justify-content-around.align-items-center.time-line-rediect.mt-3
-      .col-lg-10
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 1.
-          span #[i Tipos de señalización preventiva]
 
     .row.justify-content-around.align-items-center.time-line-rediect.mt-3
       .col-lg-12
@@ -219,7 +213,7 @@
         .cajonAmarillo.bgr-tarjeta1-tema1.p-4.mt-3
           p(data-aos="fade-down") Adicional a esa clasificación, también se debe tener presente que cada color de la señal brinda información específica. 
 
-        p.mt-5 A continuación, se indica cómo se clasifican las señales según los colores, y las características que se deben tener presentes para que estas cumplan con su objetivo, además de que sean fáciles de entender y de acatar en caso de una emergencia. 
+        p.mt-5 A continuación, se muestra cómo se clasifican las señales según los colores y las características que se deben tener presentes para que estas cumplan con su objetivo, además, la claridad que el mensaje debe tener para que sean fáciles de entender y de acatar en caso de una emergencia. 
 
 
     .row
@@ -269,19 +263,13 @@
     .row.justify-content-center.align-items-center.bgr2-tema1
       .col-lg-2
       .col-lg-9.p-4
-        p A diferencia de la señalización preventiva, la informativa tiene como fin dar a conocer algo a los asistentes del evento, se puede usar para identificar los salones o las áreas (registro, alimentación, zonas para fumadores, etc.). También es importante para señalizar recorridos, en caso de que el recinto sea un espacio muy grande (esto permite la correcta circulación del personal y de los asistentes), y para mostrarles a los participantes el cronograma o plan del evento, con el fin de que tengan en cuenta las actividades, sus horarios y los espacios para la alimentación.
+        p A diferencia de la señalización preventiva, la informativa tiene como fin dar a conocer algo a los asistentes del evento, se puede usar para identificar los salones o las áreas (registro, alimentación, zonas para fumadores, etc.). También es importante para señalizar recorridos, en caso de que el recinto sea un espacio muy grande (esto permite la correcta circulación del personal y de los asistentes) y para mostrarles a los participantes el cronograma o plan del evento, con el fin de que tengan en cuenta las actividades, sus horarios y los espacios para la alimentación.
 
-    .row.justify-content-center.align-items-center
-      .col-lg-10
-        p.mt-3 De manera general, estas señales se pueden clasificar así (EDT Eventos, s. f.):
+    h5.mt-5 Clasificación de señalización informativa
 
-    .row.justify-content-around.align-items-center.time-line-rediect.mt-3
-      .col-lg-10
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 2.
-          span #[i Clasificación de las señales]
+    p.mb-5 De manera general, estas señales se pueden clasificar así (EDT Eventos, s. f.):
 
-    ImagenInfografica.color-secundario
+    ImagenInfografica.color-secundario.mb-5
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/tema1/img27.svg', alt='Texto que describa la imagen')
@@ -296,7 +284,7 @@
 
       .tarjeta.color-secundario.p-3(x="50%" y="55%" numero="3")
         .h5.mb-2.text-center Dirección
-        p.text-center Se trata en esencia de flechas que indican un camino para la correcta circulación. El mejor ejemplo son las flechas de los parqueaderos que indican dónde se encuentra la salida.
+        p.text-center Se trata, en esencia, de flechas que indican un camino para la correcta circulación. El mejor ejemplo son las flechas de los parqueaderos que indican dónde se encuentra la salida.
 
       .tarjeta.color-secundario.p-3(x="67%" y="84%" numero="4")
         .h5.mb-2.text-center Informativas
@@ -310,10 +298,14 @@
     .row.justify-content-center.align-items-center
       .col-lg-7
         p.mt-3 Otros aspectos para tener en cuenta con respecto a esta señalización son:
+        ul.lista-ul--color
+          li 
+            i.fas.fa-chevron-right
+            p.mb-0 Cuando se incluyen uniformes o camisetas para el personal de logística del evento, hay mayor orden, ya que los asistentes pueden reconocerlos fácilmente.
 
-        p Cuando se incluyen uniformes o camisetas para el personal de logística del evento, hay mayor orden, ya que los asistentes pueden reconocerlos fácilmente.
-
-        p Los carteles colgantes pueden ser muy bien vistos dentro de eventos masivos como ferias comerciales y convenciones, porque son más visibles para los asistentes.
+          li 
+            i.fas.fa-chevron-right
+            p.mb-0 Los carteles colgantes pueden ser propicios dentro de eventos masivos como ferias comerciales y convenciones, porque son más visibles para los asistentes.
 
         p.p-4.bgr-grey.text-white La tecnología siempre atraerá mayor cantidad de miradas: pantallas electrónicas y digitales se convierten en buenas aliadas a la hora de mostrar información o comunicar datos relevantes. La señalización digital tiene, además, otros beneficios, a saber:
 
@@ -353,7 +345,7 @@
             p.mb-0 La planimetría es un plano técnico que contiene la representación a escala de todos los espacios con la ubicación de los elementos de video, iluminación, audio y escenario. Se elabora antes del evento y tiene como objetivo optimizar los recursos tecnológicos y la preparación de la propuesta comercial para la empresa contratante. 
             br
             br
-            | A continuación, en la guía gráfica se evidencia la ubicación de la señalética del evento, que sirve para que los asistentes sepan cómo movilizarse, por dónde evacuar el lugar y la ubicación de los equipos de seguridad; de igual forma, en el plano se deben presentar las zonas de riesgo eléctrico y aquellas a las que no se puede acceder. 
+            |En la guía gráfica se evidencia la ubicación de la señalética del evento, que sirve para que los asistentes sepan como movilizarse, por donde evacuar el lugar y la ubicación de los equipos de seguridad; de igual forma, en el plano se deben presentar las zonas de riesgo eléctrico y aquellas a las que no se puede acceder.          
 
       .col-lg-5.p-4.bgr-purple
         p #[b Para su creación se deben tener en cuenta algunos aspectos, como:]
@@ -376,7 +368,7 @@
             p.mb-0 Espacios para #[i buffet], zona de alimentación y bebida.
 
     .row.mt-5
-      p Antes de elaborar este documento, es muy importante hacer una visita de inspección al lugar del evento, a fin de identificar áreas donde la señalización se ha utilizado con eficacia en el pasado, definir el material más apropiado según la localización y las condiciones climáticas, revisar los permisos y tiempos pertinentes para el uso de señalización exterior, como pancartas, e identificar los puntos de montaje que deberán hacer personas profesionales, etc.  
+      p Antes de elaborar este documento, es muy importante hacer una visita de inspección al lugar del evento, a fin de identificar áreas donde la señalización se ha utilizado con eficacia en el pasado, definir el material más apropiado según la localización y las condiciones climáticas, revisar los permisos y tiempos pertinentes para el uso de señalización exterior, como pancartas e identificar los puntos de montaje que deberán hacer personas capacitadas, etc.  
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
@@ -437,7 +429,7 @@
       .col-lg-6
         .bloque-texto-f.color-primario.p-4.color-f2.recuadro3-width
           .bloque-texto-f__texto
-            p.mb-0 Dicho lo anterior, se puede entender que contar con este documento y comprenderlo ayuda a reducir las consecuencias que podrían presentarse a partir de una situación de riesgo. Cuando los empleados del evento conocen cómo actuar y hacia dónde ir en una emergencia, se previenen accidentes y las posibilidades de salvar su vida y la de otros aumenta.
+            p.mb-0 Dicho lo anterior, se puede entender que, contar con este documento y comprenderlo, ayuda a reducir las consecuencias que podrían presentarse a partir de una situación de riesgo. Cuando los empleados del evento conocen como actuar y hacia donde ir en una emergencia, se previenen accidentes y las posibilidades de salvar su vida y la de otros aumenta.
 
     separador
 
@@ -449,7 +441,7 @@
     .row.justify-content-center.align-items-center.mt-3
       .col-lg-7
         .cajonAmarillo.bgr-tarjeta1-tema1.p-4.mt-3
-          p(data-aos="fade-down") El proceso de registro o acreditación de asistentes a un evento es fundamental para su correcta identificación y segmentación, bien sea por profesiones, edades, cargos, o simplemente por perfiles más básicos, como ponente, organizador, proveedor, patrocinador, asistente, etc. Es un proceso que debe desarrollarse ágilmente, ya que no existe nada más molesto y agotador que tener que esperar en una larga fila para poder entrar a un evento; por lo tanto, cualquier estrategia que disminuya los tiempos en este paso, el descontento de los invitados y una mala imagen será bienvenido.
+          p(data-aos="fade-down") El proceso de registro o acreditación de asistentes a un evento es fundamental para su correcta identificación y segmentación, bien sea por profesiones, edades, cargos o simplemente por perfiles más básicos, como ponente, organizador, proveedor, patrocinador, asistente, etc. Es un proceso que debe desarrollarse ágilmente, ya que no existe nada más molesto y agotador que tener que esperar en una larga fila para poder entrar a un evento; por lo tanto, cualquier estrategia que disminuya los tiempos en este paso, el descontento de los invitados y una mala imagen, será bienvenida.
 
       .col-lg-2
         figure
@@ -463,15 +455,14 @@
       SlyderA(tipo="b")
         .row.p-4
           .col-md-6.mb-4.mb-md-0
-            p En algunos eventos los asistentes pueden llegar con sus acreditaciones ya impresas tras haberlas recibido por correo electrónico con anterioridad, o como ‘preinscritos’. En este caso, hay sistemas, softwares o aplicaciones que facilitan el proceso y brindan mayor agilidad. Utilizan un formulario donde se han registrado los datos del asistente, en el cual el personal encargado accede con solo ingresar el nombre de este; el sistema arroja sus datos para imprimir y entregar la escarapela. Ahora también se utilizan los códigos QR que pueden ser enviados físicamente o por internet a la persona que va a asistir, luego de que esta haya ingresado sus datos en un formulario web, de manera que a la entrada los empleados del evento puedan escanear el código e identificarla más fácilmente. 
-
+            p En algunos eventos los asistentes pueden llegar con sus acreditaciones ya impresas tras haberlas recibido por correo electrónico con anterioridad o como “preinscritos”. En este caso, hay sistemas, <i>softwares</i> o aplicaciones que facilitan el proceso y brindan mayor agilidad. Utilizan un formulario donde se han registrado los datos del asistente, al cual el personal encargado accede con solo ingresar el nombre de este; el sistema arroja sus datos para imprimir y entregar la escarapela. Ahora también se utilizan los códigos QR que pueden ser enviados físicamente o por internet a la persona que va a asistir, luego de que esta haya ingresado sus datos en un formulario web, de manera que, a la entrada los empleados del evento puedan escanear el código e identificarla más fácilmente. 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img31.png', alt='Texto que describa la imagen')
 
         .row.p-4
           .col-md-6.mb-4.mb-md-0
-            p Cuanta más organización tenga el proceso de registro en la entrada del evento, menos probabilidades hay de aglomeraciones, y por tanto, mayor será la satisfacción de los asistentes al sentirse bien atendidos desde el inicio.
+            p Cuanta más organización tenga el proceso de registro en la entrada del evento, menos probabilidades hay de aglomeraciones y, por tanto, mayor será la satisfacción de los asistentes al sentirse bien atendidos desde el inicio. 
 
           .col-md-6
             figure
@@ -538,7 +529,7 @@
 
     .row.mt-5
       p #[b Registro de participantes]
-
+    p.mb-5 En el siguiente video se muestran otros elementos referentes al registro de los participantes a un evento.
     .row.justify-content-center.align-items-center.mb-5.mt-3          
       .col-lg-12(data-aos="fade-left")     
         figure

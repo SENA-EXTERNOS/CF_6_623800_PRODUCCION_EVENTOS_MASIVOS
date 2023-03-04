@@ -70,15 +70,6 @@ export default {
         numero: '2',
         titulo: '<em>Merchandising</em> en los eventos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo:
-              ' Tipos de <em>merchandising</em> para eventos y su aplicación',
-            hash: 't_2_1',
-          },
-        ],
       },
     ],
     subMenu: [

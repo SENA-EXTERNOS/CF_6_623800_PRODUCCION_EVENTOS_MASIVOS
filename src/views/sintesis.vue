@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p La señalización, el registro de participantes y el merchandising del evento son necesarios para generar un mayor control y fidelización de los asistentes. La Figura 3 muestra la síntesis de este tema.
+    p.mb-5 La señalización, el registro de participantes y el <i>merchandising </i>del evento son necesarios para generar un mayor control y fidelización de los asistentes, a continuación, se muestra la síntesis de este tema.
 
     .row.justify-content-center
       .col-lg-10.mb-5

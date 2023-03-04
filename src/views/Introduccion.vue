@@ -16,10 +16,10 @@
           img(src='@/assets/curso/temas/introduccion/img1.svg', alt='Texto que describa la imagen') 
 
       .col-lg-4
-        p.mt-3 Estimado aprendiz, en esta unidad comprenderá que en todo evento debe primar la señalización informativa y preventiva, una que contribuye al buen desarrollo y fluidez de lo establecido en la planeación. Este tema impacta todas las áreas y tiene gran importancia a la hora de cuidar de los demás y del establecimiento sede del evento, además, permite la actualización en todos los procesos de producción y gestión de eventos.
+        p.mt-3 Estimado aprendiz, en este componente formativo comprenderá que en todo evento debe primar la señalización informativa y preventiva, lo cual contribuye al buen desarrollo y fluidez de lo establecido en la planeación. Este tema es de gran importancia para el cuidado de los asistentes y de la instalación sede del evento; además, permite mantener la actualización de todos los procesos de producción y gestión del mismo. 
 
       .col-lg-5.bgr1-intro.p-4
-        p Este componente formativo se enfoca en desarrollar habilidades para comprender el tema y la manera como se relaciona con áreas de registro y control de asistentes, mercadeo y promoción.
+        p Este componente formativo se enfoca en desarrollar habilidades para comprender los conceptos y la relación entre el registro, control de asistentes, mercadeo y promoción. 
 
         p #[b El siguiente video amplía esta interesante temática. ¡Muchos éxitos!]
 

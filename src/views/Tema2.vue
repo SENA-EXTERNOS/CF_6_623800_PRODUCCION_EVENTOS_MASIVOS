@@ -7,17 +7,16 @@
         span 2
       h1 #[i Merchandising] en los eventos
 
-    .row.justify-content-around.align-items-center.mt-5
+    .row.justify-content-around.align-items-center.mb-5
       .col-lg-5
         .cajonAmarillo.bgr-tarjeta1-tema1.p-4.mt-3
-            p(data-aos="fade-down") Este tema se refiere a una técnica del mercadeo que se enfoca en conectar a la audiencia con la marca, destinando todos los esfuerzos a que el comprador valore y adquiera el producto, de la manera más rentable tanto para él como para el fabricante y el distribuidor. Se puede decir que el #[i merchandising] es una de las herramientas más efectivas y con menor costo para la empresa que la implementa. 
+            p(data-aos="fade-down") El <i>Merchandising</i> en los eventos es una técnica del mercadeo que se enfoca en conectar a la audiencia con la marca, destinando todos los esfuerzos a que el comprador valore y adquiera el producto de la manera más rentable, tanto para él, como para el fabricante y el distribuidor. Se puede decir que el <i>merchandising</i> es una de las herramientas más efectivas y con menor costo para la empresa que la implementa. 
 
       .col-lg-7
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema2/img1.svg', alt='Texto que describa la imagen') 
 
-    .row.mt-5
-      p #[b #[i Merchandising] en los eventos]
+    p.mb-5 Lo siguiente son algunas apreciaciones sobre el Merchandising en los eventos:
 
     .tarjeta.tarjeta--azul.p-4.bgr3-tema1
       SlyderA(tipo="b")
@@ -27,7 +26,7 @@
               img(src='@/assets/curso/temas/tema2/img2.png', alt='Texto que describa la imagen')
 
           .col-md-6.mb-4.mb-md-0
-            p.mt-3 Sabemos que los eventos implican esfuerzo; organizarlos exige tener presente una serie de detalles mínimos que, si se dejan por fuera, pueden tener un impacto negativo en el resultado final. En un evento todo cuenta: desde la correcta selección del espacio; el lugar para ubicar carteles, propaganda o señalización; la música, los equipos tecnológicos… En fin; todo evento requiere de organización y disposición de factores económicos y humanos para su éxito. 
+            p.mt-3 Sabemos que los eventos implican esfuerzo; organizarlos exige tener presente una serie de detalles mínimos que, si se dejan por fuera, pueden tener un impacto negativo en el resultado final. En un evento todo cuenta: desde la correcta selección del espacio, el lugar para ubicar carteles, propaganda o señalización, la música, los equipos tecnológicos, etc.; todo evento requiere de organización y disposición de factores económicos y humanos para su éxito.  
 
         .row.p-4
           .col-md-6
@@ -80,12 +79,8 @@
         .cajonAmarillo.bgr-tarjeta1-tema1.p-4.mt-3
             p.text-center(data-aos="fade-down") Sea cual sea el tipo de evento que se organice, es importante incluir una estrategia de merchandising por sus múltiples beneficios. 
 
-    separador
 
-    #t_2_1
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 2.1 Tipos de #[i merchandising] para eventos y su aplicación
+    h3.mt-5(data-aos="zoom-in-left") Tipos de #[i merchandising] para eventos y su aplicación
 
     .row
       p A continuación, se presentan las múltiples opciones que existen para llevar a cabo el #[i merchandising]:
@@ -147,7 +142,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema2/img8.svg', alt='Texto que describa la imagen')
               .col-lg-9.col-xs-12.mt-3
-                p.mb-0 Es la acción que posiciona productos o marcas en películas, series, videos musicales y telenovelas, con el objetivo de incitar el recuerdo y el refuerzo de imagen. Un ejemplo aplicado a los eventos es cuando un cantante decide realizar su video promocional y lo hace directamente en la sede del evento, esto logra crear interés en la audiencia e incita a conocer el lugar y comprar las entradas para el evento. 
+                p.mb-0 Es la acción que posiciona productos o marcas en películas, series, videos musicales y telenovelas, con el objetivo de incitar el recuerdo y el refuerzo de imagen. Un ejemplo aplicado a los eventos es cuando un cantante decide realizar su video promocional y lo hace directamente en la sede del evento, esto logra crear interés en la audiencia e incita a conocer el lugar y comprar las entradas. 
 
             .row(titulo="Vitrinismo")
               .col-lg-3.col-xs-6

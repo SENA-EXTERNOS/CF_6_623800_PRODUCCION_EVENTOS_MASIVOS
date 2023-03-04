@@ -10,8 +10,8 @@
             img(src="@/assets/template/multiple.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Selección Multiple
-        p.mb-4 La siguiente evaluación consiste en elegir la opción correcta según la pregunta o enunciado. ¡Muchos éxitos!
+          h2 Señalización, registro de participantes y <em>merchandising</em> del evento
+        p.mb-4 La siguiente actividad le permitirá validar los conocimientos obtenidos durante el desarrollo de este componente formativo. Elija la opción correcta según la pregunta o enunciado. ¡Muchos éxitos!
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
