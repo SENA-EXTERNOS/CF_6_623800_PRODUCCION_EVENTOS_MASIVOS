@@ -271,7 +271,7 @@ export default {
     ],
     desarrolloProducto: [
       {
-        nombre: 'Francisco José Lizcano Reyes',
+        nombre: 'Francisco José Lizcano Reyes.',
         cargo: 'Responsable del equipo',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
