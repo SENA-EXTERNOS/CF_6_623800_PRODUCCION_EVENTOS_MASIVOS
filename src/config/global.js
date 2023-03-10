@@ -138,7 +138,7 @@ export default {
     {
       tema: '<em>Merchandising</em>',
       referencia:
-        'Vallejo, J. (2018, enero). Iniciativas de mercadeo ambiental y digital <em>signage</em> en las ferias comerciales como aporte al desarrollo sostenible. Pensamiento & Gestión (44).',
+        'Vallejo, J. (2018, enero). Iniciativas de mercadeo ambiental y digital <em>signage</em> en las ferias comerciales como aporte al desarrollo sostenible. <em>Pensamiento & Gestión</em> (44).',
       tipo: 'Artículo',
       link: 'https://bit.ly/3GePuRb',
     },
@@ -218,8 +218,7 @@ export default {
     {
       referencia:
         'EDT Eventos (s. f.). <em>Señalética y eventos: cómo delimitar tus espacios correctamente</em>.',
-      link:
-        'https://www.edt.es/senaletica-eventos-como-delimitar-tus-espacios/',
+      link: '',
     },
     {
       referencia:
@@ -250,7 +249,7 @@ export default {
     {
       referencia:
         'Dirección de Prevención y Atención de Emergencias [DPAE] (2011). <em>Señalización y plan de evacuación</em>. DPAE.',
-      link: 'https://bit.ly/3Utz3ot',
+      link: '',
     },
   ],
   creditos: {

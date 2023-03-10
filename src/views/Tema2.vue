@@ -16,7 +16,7 @@
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema2/img1.svg', alt='Texto que describa la imagen') 
 
-    p.mb-5 Lo siguiente son algunas apreciaciones sobre el Merchandising en los eventos:
+    p.mb-5 Lo siguiente son algunas apreciaciones sobre el <i>Merchandising</i> en los eventos:
 
     .tarjeta.tarjeta--azul.p-4.bgr3-tema1
       SlyderA(tipo="b")
@@ -77,7 +77,7 @@
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-10
         .cajonAmarillo.bgr-tarjeta1-tema1.p-4.mt-3
-            p.text-center(data-aos="fade-down") Sea cual sea el tipo de evento que se organice, es importante incluir una estrategia de merchandising por sus múltiples beneficios. 
+            p.text-center(data-aos="fade-down") Sea cual sea el tipo de evento que se organice, es importante incluir una estrategia de <i>merchandising</i> por sus múltiples beneficios. 
 
 
     h3.mt-5(data-aos="zoom-in-left") Tipos de #[i merchandising] para eventos y su aplicación
@@ -98,7 +98,7 @@
               .col-lg-9.col-xs-12.mt-3
                 p.mb-0 Son las acciones que se emprenden para que el cliente recuerde la marca. Pueden ser varias, por ejemplo: cuando un evento tiene una muestra comercial y las empresas participantes disponen sus estands para los asistentes, se está aplicando una estrategia de #[i merchandising] fuera del punto de venta. Igual sucede con los regalos o ‘recordatorios’, pues el consumidor los recuerda y ayudan a incrementar la imagen de la compañía y afianzar los lazos con ella. El secreto de esta estrategia está en el valor añadido que ofrecen, muchas veces a bajo costo. 
 
-                p Casi cualquier objeto puede personalizarse con el logo y la información de contacto de la compañía; sin embargo, a la hora de elegir el más adecuado para el tipo de público que asiste al evento, se debe tener en cuenta su perfil, rango de edad, intereses y la manera como el objeto se relaciona con el que hacer de la empresa. Para ilustrarlo, pensemos en un evento de informática al que acudirán ingenieros: los objetos promocionales deberían estar pensados para ellos, y por lo tanto, pueden ser accesorios tecnológicos, pads para el ratón del computador, forros para el portátil, etc. 
+                p Casi cualquier objeto puede personalizarse con el logo y la información de contacto de la compañía; sin embargo, a la hora de elegir el más adecuado para el tipo de público que asiste al evento, se debe tener en cuenta su perfil, rango de edad, intereses y la manera como el objeto se relaciona con el que hacer de la empresa. Para ilustrarlo, pensemos en un evento de informática al que acudirán ingenieros: los objetos promocionales deberían estar pensados para ellos, y por lo tanto, pueden ser accesorios tecnológicos, <i>pads</i> para el ratón del computador, forros para el portátil, etc. 
 
                 p Para evitar errores, también se pueden hacer encuestas en línea a los clientes con el fin de conocer mejor sus preferencias. Algunas ideas de regalos pueden ser:
 

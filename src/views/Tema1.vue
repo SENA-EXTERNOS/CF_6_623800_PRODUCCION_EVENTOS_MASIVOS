@@ -64,7 +64,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/img7.svg' alt='AvatarTop')
-        h3.text-center Carteles de <i>estands</i>
+        h3.text-center Carteles de <i>stands</i>
         p.text-center Son portátiles, se arman rápido y fácil, por lo que se pueden trasladar de un lugar a otro sin mucha complicación.  
 
     
@@ -143,7 +143,7 @@
       .col-lg-8
         .row.justify-content-center.align-items-center.mt-5.bgr1-intro
           .col-lg-9.p-4
-            p Por otro lado, se debe enfatizar en que el proceso de acreditación es muy importante; es el primer contacto entre el asistente y el evento, por esa razón debe ser cuidado en todos sus detalles. Esa primera experiencia puede fidelizar clientes o dejar una imagen negativa en ellos. 
+            p Por otro lado, se debe enfatizar en que el <b>proceso de acreditación</b> es muy importante; es el <b>primer contacto</b> entre el asistente y el evento, por esa razón debe ser cuidado en todos sus detalles. Esa primera experiencia puede <b>fidelizar clientes</b> o dejar una imagen negativa en ellos. 
 
           .col-lg-3
             figure(data-aos="zoom-in")
@@ -312,23 +312,23 @@
         ul.lista-ul--color
           li 
             i.fas.fa-chevron-right
-            p.mb-0 #[b Debido a lo atractiva que resulta, convoca a una mayor cantidad de clientes al estand o al evento como tal.]
+            p.mb-0 Debido a lo atractiva que resulta, convoca a una mayor cantidad de clientes al estand o al evento como tal.
 
           li 
             i.fas.fa-chevron-right
-            p.mb-0 #[b Puede mostrar de manera interactiva, innovadora y moderna los servicios o productos de una compañía.]
+            p.mb-0 Puede mostrar de manera interactiva, innovadora y moderna los servicios o productos de una compañía.
 
           li 
             i.fas.fa-chevron-right
-            p.mb-0 #[b Los visitantes pueden estar informados acerca de las actividades del evento.]
+            p.mb-0 Los visitantes pueden estar informados acerca de las actividades del evento.
 
           li 
             i.fas.fa-chevron-right
-            p.mb-0 #[b Los estands en las ferias comerciales pueden diferenciarse de manera positiva frente a la competencia. ]
+            p.mb-0 Los estands en las ferias comerciales pueden diferenciarse de manera positiva frente a la competencia. 
 
           li 
             i.fas.fa-chevron-right
-            p.mb-0 #[b Hay mayor interacción del cliente con el producto a través de pantallas táctiles que contengan información de interés, juegos, trivias o efectos de realidad aumentada.]
+            p.mb-0 Hay mayor interacción del cliente con el producto a través de pantallas táctiles que contengan información de interés, juegos, trivias o efectos de realidad aumentada.
 
 
       .col-lg-5
@@ -339,15 +339,15 @@
       p #[b Planimetrías de señalización del evento]
 
     .row.justify-content-center.align-items-center
-      .col-lg-7
-        .bloque-texto-f.p-4.bloque-texto-f-1-color.bloque-texto-f-1
+      .col-lg-6
+        .bloque-texto-f.p-2.bloque-texto-f-1-color.bloque-texto-f-1
           .bloque-texto-f__texto
             p.mb-0 La planimetría es un plano técnico que contiene la representación a escala de todos los espacios con la ubicación de los elementos de video, iluminación, audio y escenario. Se elabora antes del evento y tiene como objetivo optimizar los recursos tecnológicos y la preparación de la propuesta comercial para la empresa contratante. 
             br
             br
             |En la guía gráfica se evidencia la ubicación de la señalética del evento, que sirve para que los asistentes sepan como movilizarse, por donde evacuar el lugar y la ubicación de los equipos de seguridad; de igual forma, en el plano se deben presentar las zonas de riesgo eléctrico y aquellas a las que no se puede acceder.          
 
-      .col-lg-5.p-4.bgr-purple
+      .col-lg-6.p-4.bgr-purple
         p #[b Para su creación se deben tener en cuenta algunos aspectos, como:]
 
         ul.lista-ul--color
@@ -440,8 +440,8 @@
 
     .row.justify-content-center.align-items-center.mt-3
       .col-lg-7
-        .cajonAmarillo.bgr-tarjeta1-tema1.p-4.mt-3
-          p(data-aos="fade-down") El proceso de registro o acreditación de asistentes a un evento es fundamental para su correcta identificación y segmentación, bien sea por profesiones, edades, cargos o simplemente por perfiles más básicos, como ponente, organizador, proveedor, patrocinador, asistente, etc. Es un proceso que debe desarrollarse ágilmente, ya que no existe nada más molesto y agotador que tener que esperar en una larga fila para poder entrar a un evento; por lo tanto, cualquier estrategia que disminuya los tiempos en este paso, el descontento de los invitados y una mala imagen, será bienvenida.
+        .cajonAmarillo.bgr-tarjeta1-tema1.py-4.mt-3.px-5
+          p.mb-0(data-aos="fade-down") El proceso de registro o acreditación de asistentes a un evento es fundamental para su correcta identificación y segmentación, bien sea por profesiones, edades, cargos o simplemente por perfiles más básicos, como ponente, organizador, proveedor, patrocinador, asistente, etc. Es un proceso que debe desarrollarse ágilmente, ya que no existe nada más molesto y agotador que tener que esperar en una larga fila para poder entrar a un evento; por lo tanto, cualquier estrategia que disminuya los tiempos en este paso, el descontento de los invitados y una mala imagen, será bienvenida.
 
       .col-lg-2
         figure
@@ -462,6 +462,14 @@
 
         .row.p-4
           .col-md-6.mb-4.mb-md-0
+            p Como se puede ver, el control del acceso es un mecanismo para verificar rápidamente que al evento solo entrarán personas acreditadas o registradas. Este control es una medida de seguridad que, además de facilitarle la labor al organizador durante el evento, le sirve para crear una base de datos que le ayude a gestionar diversas actividades, como enviar información, contactar posibles clientes, invitarlos a otros eventos, crear campañas promocionales, ofrecer bonos, descuentos o fidelizarlos para una recompra posterior. 
+          
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/img33.png', alt='Texto que describa la imagen')
+
+        .row.p-4
+          .col-md-6.mb-4.mb-md-0
             p Cuanta más organización tenga el proceso de registro en la entrada del evento, menos probabilidades hay de aglomeraciones y, por tanto, mayor será la satisfacción de los asistentes al sentirse bien atendidos desde el inicio. 
 
           .col-md-6
@@ -469,13 +477,7 @@
               img(src='@/assets/curso/temas/tema1/img32.png', alt='Texto que describa la imagen')
 
 
-        .row.p-4
-          .col-md-6.mb-4.mb-md-0
-            p Como se puede ver, el control del acceso es un mecanismo para verificar rápidamente que al evento solo entrarán personas acreditadas o registradas. Este control es una medida de seguridad que, además de facilitarle la labor al organizador durante el evento, le sirve para crear una base de datos que le ayude a gestionar diversas actividades, como enviar información, contactar posibles clientes, invitarlos a otros eventos, crear campañas promocionales, ofrecer bonos, descuentos o fidelizarlos para una recompra posterior. 
-          
-          .col-md-6
-            figure
-              img(src='@/assets/curso/temas/tema1/img33.png', alt='Texto que describa la imagen')
+        
 
     .row.mt-5
       p #[b Control de acceso]
