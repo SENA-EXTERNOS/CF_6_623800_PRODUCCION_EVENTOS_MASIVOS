@@ -116,14 +116,6 @@ export default {
     {
       tema: 'Organización de eventos',
       referencia:
-        'Galmés, M. (2010). <em>La organización de eventos como herramienta de comunicación de marketing</em>. [Tesis doctoral]. Modelo integrado y experiencial. Universidad de Málaga',
-      tipo: 'Tesis doctoral',
-      link:
-        'https://dspace-libros.metabiblioteca.com.co/jspui/bitstream/001/356/5/978-84-9747-609-6.pdf',
-    },
-    {
-      tema: 'Organización de eventos',
-      referencia:
         'Rocha da Cruz, F. (2021, enero-marzo). La organización de eventos públicos y <em>disneylización</em> de la sociedad: estudio de casos en el centro de la ciudad de Oporto. <em>Aposta, Revista de Ciencias Sociales</em> (88), pp. 30-48. ',
       tipo: 'Artículo',
       link: 'http://apostadigital.com/revistav3/hemeroteca/fmrcruz3.pdf',
